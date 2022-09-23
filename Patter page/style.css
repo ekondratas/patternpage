@@ -1,0 +1,9 @@
+.navbar {
+   background:  #343a40;
+}
+
+.border {
+    width: 400px;
+    padding: 20px;
+    border-radius: 0 0 5px 5px;
+}
